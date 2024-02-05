@@ -7,4 +7,7 @@ allows for a modular and organized approach to modeling electrical components a
 
 ## Simulator Images 
 
+![Prototype 1](https://github.com/Yashraj67/BEE/blob/main/bee1.png)
+![Prototype 1](https://github.com/Yashraj67/BEE/blob/main/bee2.png)
+
 
